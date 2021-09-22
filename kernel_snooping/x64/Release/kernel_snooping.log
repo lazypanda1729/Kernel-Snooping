@@ -1,0 +1,8 @@
+﻿  kernel_snooping.cpp
+x64\Release\byte_scan.obj : warning LNK4042: object specified more than once; extras ignored
+  Generating code
+  1 of 237 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  kernel_snooping.vcxproj -> C:\Users\JustAT3ch\source\repos\kernel_snooping\x64\Release\kernel_snooping.exe
