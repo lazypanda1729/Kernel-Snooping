@@ -1,6 +1,6 @@
 # Kernel-Snooping
 
-Main:
+Main: https://medium.com/@VL1729_JustAT3ch
 
 Removing Process Creation Kernel Callbacks:
 
@@ -15,3 +15,4 @@ Notes:
 1. Currently no built in functionality provided for loading the driver since the point here is mainly how to locate      array(PspCreateProcessNotifyRoutine) which holds the callbacks.
 
 2. Any vulnerable driver which provides read-what-where functionality will work(No shortage of those :)). 
+
