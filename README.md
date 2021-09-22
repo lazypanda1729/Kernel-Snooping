@@ -2,4 +2,4 @@
 
 Removing Process Creation Kernel Callbacks:
 
-Targeting EDR registered callbacks of Process creation(PsSetCreateProcessNotifyRoutine).
+Targeting EDR registered callbacks for Process creation(PsSetCreateProcessNotifyRoutine).
