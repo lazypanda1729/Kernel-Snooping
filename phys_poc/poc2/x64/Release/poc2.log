@@ -1,0 +1,11 @@
+﻿  poc2.cpp
+C:\Users\justaT3ech\source\repos\phys_poc\poc2\poc2.cpp(385,12): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\justaT3ech\source\repos\phys_poc\poc2\poc2.cpp(385,12): message : consider using '%zd' in the format string
+C:\Users\justaT3ech\source\repos\phys_poc\poc2\poc2.cpp(502,5): warning C4102: 'exit': unreferenced label
+C:\Users\justaT3ech\source\repos\phys_poc\poc2\poc2.cpp(541,9): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'HANDLE'
+  Generating code
+  1 of 15 functions ( 6.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  poc2.vcxproj -> C:\Users\justaT3ech\source\repos\phys_poc\x64\Release\poc2.exe

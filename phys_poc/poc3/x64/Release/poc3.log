@@ -1,0 +1,10 @@
+﻿  ntquery.cpp
+  poc3.cpp
+C:\Users\justaT3ech\source\repos\phys_poc\poc3\poc3.cpp(380,9): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'HANDLE'
+C:\Users\justaT3ech\source\repos\phys_poc\poc3\poc3.cpp(383,5): warning C4102: 'exit': unreferenced label
+C:\Users\justaT3ech\source\repos\phys_poc\poc3\poc3.cpp(436,9): warning C4477: 'printf' : format string '%llx' requires an argument of type 'unsigned __int64', but variadic argument 1 has type 'HANDLE'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 18 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  poc3.vcxproj -> C:\Users\justaT3ech\source\repos\phys_poc\x64\Release\poc3.exe

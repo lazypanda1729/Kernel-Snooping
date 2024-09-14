@@ -1,0 +1,9 @@
+﻿  phys_poc.cpp
+C:\Users\justaT3ech\source\repos\phys_poc\phys_poc\phys_poc.cpp(137,12): warning C4477: 'wprintf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\justaT3ech\source\repos\phys_poc\phys_poc\phys_poc.cpp(137,12): message : consider using '%zd' in the format string
+  Generating code
+  1 of 14 functions ( 7.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  phys_poc.vcxproj -> C:\Users\justaT3ech\source\repos\phys_poc\x64\Release\phys_poc.exe
